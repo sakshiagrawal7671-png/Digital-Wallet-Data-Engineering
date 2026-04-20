@@ -167,9 +167,8 @@ All other imports are Python standard library. No Java or external services requ
 
 ---
 
-## Author
 
-**[Your Name]**  
-Roll Number: [Your Roll Number]  
-Batch / Program: [Your Batch]  
+Sakshi Agrawal 
+Roll Number: 23053074  
+Batch / Program: B.Tech  
 Submission: April 2026
