@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.db
+*.sqlite
+*.sqlite3
+datalake/
+delta_wallet_transactions/
+cloud_sim/
+hdfs_sim/datanodes/
+pipeline_dirs/archive/
+*.log
+.DS_Store

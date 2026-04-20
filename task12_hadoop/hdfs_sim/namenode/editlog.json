@@ -1,0 +1,22 @@
+[
+  {
+    "op": "CREATE",
+    "path": "/wallet/raw/transactions/year=2023/month=01/part-0.csv",
+    "ts": "2026-04-18T13:00:14.189104"
+  },
+  {
+    "op": "CREATE",
+    "path": "/wallet/raw/transactions/year=2023/month=02/part-0.csv",
+    "ts": "2026-04-18T13:00:14.194311"
+  },
+  {
+    "op": "CREATE",
+    "path": "/wallet/raw/users/users.csv",
+    "ts": "2026-04-18T13:00:14.195695"
+  },
+  {
+    "op": "CREATE",
+    "path": "/wallet/raw/logs/app_logs_2023_01.txt",
+    "ts": "2026-04-18T13:00:14.198015"
+  }
+]
